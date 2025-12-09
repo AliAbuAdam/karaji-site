@@ -83234,7 +83234,7 @@ A.ark.prototype={
 $1(a){var s,r=null,q=this.a.d
 q===$&&A.a()
 s=a?A.aBn():A.aBo()
-return A.nm(r,new A.uP(q,new A.arh(),"Luqan | \u0644\u0648\u0642\u0627\u0646",s,B.wj,B.V8,B.rz,!1,r),B.at,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.ari(),r,r,r)},
+return A.nm(r,new A.uP(q,new A.arh(),"Karaji | \u0643\u0627\u0631\u0627\u062c\u064a",s,B.wj,B.V8,B.rz,!1,r),B.at,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.ari(),r,r,r)},
 $S:515}
 A.ari.prototype={
 $0(){var s=$.a9.am$.d.c
